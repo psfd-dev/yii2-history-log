@@ -1,9 +1,9 @@
 {
-    "name": "psfd-dev/yii2-activerecord-history",
+    "name": "psfd-dev/yii2-history-log",
     "description": "Storage history of changes to ActiveRecord",
     "keywords": ["yii2", "history", "activerecord"],
     "type": "yii2-extension",
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "license": "BSD-3-Clause",
     "authors": [
         {
